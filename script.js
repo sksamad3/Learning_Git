@@ -9,3 +9,7 @@ console.log("This is my third line of  script");
 
 // Adding a new line 
 // Learning JS is fun
+
+
+// Staging the file 
+let a = 5 ;
