@@ -13,3 +13,4 @@ console.log("This is my third line of  script");
 
 // Staging the file 
 let a = 5 ;
+let b = 10 ; 
