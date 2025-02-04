@@ -24,3 +24,7 @@ let d = 234;
 
 let e = 234;
 let f = 234;
+
+
+console.log("Pushing to GitHub"); 
+console.log("This is the final line of script "); 
